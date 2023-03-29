@@ -1,6 +1,3 @@
-# Backtracking-Project-by-Sanjeet
-
-
 # Webpage made using only HTML for everything. 
 
 
