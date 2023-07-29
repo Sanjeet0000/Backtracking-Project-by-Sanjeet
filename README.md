@@ -1,4 +1,4 @@
-# Webpage made using only HTML for everything. 
+# Webpage made using HTML for styling. 
 
 
 ## Live link:
